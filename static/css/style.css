@@ -1,0 +1,18 @@
+/* static/css/style.css */
+.post-content {
+    font-size: 1.1rem;
+    line-height: 1.7;
+}
+
+#scrollTopBtn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 10px 15px;
+    border-radius: 50%;
+}

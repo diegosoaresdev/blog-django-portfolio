@@ -1,0 +1,24 @@
+# Arquivo de segredos - NUNCA ENVIAR!
+.env
+
+# Ambiente Virtual do Python
+venv/
+env/
+.venv/
+
+# Banco de dados local - CONTÉM TODOS OS DADOS!
+*.sqlite3
+db.sqlite3
+
+# Pasta de mídias enviadas pelos usuários
+media/
+
+# Arquivos de cache e compilados do Python
+__pycache__/
+*.pyc
+
+# Arquivos de configuração do VS Code
+.vscode/
+
+# Arquivos de log
+*.log
