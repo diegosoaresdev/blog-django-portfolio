@@ -1,5 +1,7 @@
 # 🚀 Tech Blog - Portfólio Django
 
+![Screenshot da página inicial do Blog Tech](docs/images/screenshot-blog.png)
+
 Este é um projeto de blog de notícias de tecnologia construído com Django desenvolvi para aprimorar minhas habilidades, focado em boas práticas de desenvolvimento, performance e otimização para motores de busca (SEO). Nele, foquei em implementar um sistema seguro, com boas práticas de SEO e um layout responsivo, demonstrando os principais conceitos do framework.
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
